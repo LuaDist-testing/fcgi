@@ -1,8 +1,9 @@
 package = "fcgi"
-version = "scm-1"
+version = "1.1-2"
 
 source = {
 	url = "git://github.com/mikejsavage/lua-fcgi.git",
+	tag = "v1.1-2",
 }
 
 description = {
